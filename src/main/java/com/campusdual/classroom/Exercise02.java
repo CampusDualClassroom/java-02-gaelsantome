@@ -4,9 +4,12 @@ public class Exercise02 {
 
     public static void main(String[] args) {
         double r = 15;
-        double a, l;
+        double a = r*r*Math.PI, l = r*2*Math.PI;
 
         // TODO: ↓ Fórmula del área de un círculoS: a = radio * radio * Número PI
+
+        
+
 
         System.out.println("Area: " + a);
 
